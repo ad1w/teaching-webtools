@@ -1,5 +1,15 @@
 # teaching-webtools
 
+<b>Physics</b>
+- [Tracker Analysis video](https://opensourcephysics.github.io/tracker-website/) \
+    <b>Great for teach:</b> Physics GLB, GLBB, optics \
+    <b>Platform:</b> Windows, Mac OS, Linux, Online
+- [PhET Simulations](https://phet.colorado.edu/) \
+    <b>Great for teach:</b> Physics (especially), Mathematics, Chemistry, Earth & Space, Biology \
+    <b>Platform:</b> Online
+- [ELectronic Workbench](https://electronicworkbenchewb.com/) \
+    <b>Great for teach:</b> Electricity \
+    <b>Platform:</b> Windows
 
 <!--
 
