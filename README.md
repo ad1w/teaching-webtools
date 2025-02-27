@@ -3,13 +3,50 @@
 <b>Physics</b>
 - [Tracker Analysis video](https://opensourcephysics.github.io/tracker-website/) \
     <b>Great for teach:</b> Physics GLB, GLBB, optics \
-    <b>Platform:</b> Windows, Mac OS, Linux, Online
+    <b>Platform:</b> Windows, Mac OS, Linux, Online \
+    <b>Price:</b> Free
 - [PhET Simulations](https://phet.colorado.edu/) \
     <b>Great for teach:</b> Physics (especially), Mathematics, Chemistry, Earth & Space, Biology \
-    <b>Platform:</b> Online
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free
 - [ELectronic Workbench](https://electronicworkbenchewb.com/) \
     <b>Great for teach:</b> Electricity \
-    <b>Platform:</b> Windows
+    <b>Platform:</b> Windows \
+    <b>Price:</b> Free
+
+
+<b>Editing Software</b>
+- <b>Video</b>
+    - [Olive](https://www.olivevideoeditor.org/) \
+    <b>Great for:</b> Video editing \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
+    - [Kdenlive](https://kdenlive.org/en/) \
+    <b>Great for:</b> Video editing \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
+- <b>Audio</b> 
+    - [Audacity](https://www.audacityteam.org/) \
+    <b>Great for:</b> Audio editing, cleaning, recording \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
+- <b>Graphic</b>
+    - [Canva](https://www.canva.com/) \
+    <b>Great for:</b> Design \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free & Paid
+    - [Gimp](https://www.gimp.org/) \
+    <b>Great for:</b> Photo editing, design \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
+    - [Inkscape](https://inkscape.org/) \
+    <b>Great for:</b> Design \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
+    - [Krita](https://krita.org/en/) \
+    <b>Great for:</b> Drawing, design \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free
 
 <!--
 
