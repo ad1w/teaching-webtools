@@ -3,8 +3,7 @@
 This repository contains a collection of websites and applications 
 out there that you can use to learn, of course you can use it for teaching. 
 All websites or applications listed here are attempted to be accessed or 
-installed for free (changes may occur according to the developer of each application).\
-<br>
+installed for free (changes may occur according to the developer of each application). 
 Please note that some websites and applications may not be specifically made for 
 learning media, use them wisely.
 
@@ -14,7 +13,7 @@ learning media, use them wisely.
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
 - [Space Elevator](https://neal.fun/space-elevator/) \
-    <b>Great for teach:</b> Space (especially), air vehicles, flying animals \
+    <b>Great for teach:</b> Space (especially), air vehicles, highland and flying animals \
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
 
