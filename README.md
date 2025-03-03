@@ -1,5 +1,13 @@
 # teaching-webtools
 
+This repository contains a collection of websites and applications 
+out there that you can use to learn, of course you can use it for teaching. 
+All websites or applications listed here are attempted to be accessed or 
+installed for free (changes may occur according to the developer of each application).\
+<br>
+Please note that some websites and applications may not be specifically made for 
+learning media, use them wisely.
+
 <b>Biology</b>
 - [The Deep Sea](https://neal.fun/deep-sea/) \
     <b>Great for teach:</b> Sea animals \
