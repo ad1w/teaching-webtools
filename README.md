@@ -22,6 +22,14 @@ learning media, use them wisely.
     <b>Great for teach:</b> Geography, maps, size of country \
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
+- [Size of Space](https://neal.fun/size-of-space/) \
+    <b>Great for teach:</b> Space \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+- [Space Elevator](https://neal.fun/space-elevator/) \
+    <b>Great for teach:</b> Space (especially), air vehicles, highland and flying animals \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
 
 <b>Physics</b>
 - [Tracker Analysis video](https://opensourcephysics.github.io/tracker-website/) \
