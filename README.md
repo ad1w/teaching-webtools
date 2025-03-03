@@ -1,5 +1,11 @@
 # teaching-webtools
 
+<b>Geography</b>
+- [True Size](https://thetruesize.com/) \
+    <b>Great for teach:</b> Geography, maps, size of country \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+
 <b>Physics</b>
 - [Tracker Analysis video](https://opensourcephysics.github.io/tracker-website/) \
     <b>Great for teach:</b> Physics GLB, GLBB, optics \
