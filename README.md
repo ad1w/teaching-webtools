@@ -1,5 +1,15 @@
 # teaching-webtools
 
+<b>Biology</b>
+- [The Deep Sea](https://neal.fun/deep-sea/) \
+    <b>Great for teach:</b> Sea animals \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+- [Space Elevator](https://neal.fun/space-elevator/) \
+    <b>Great for teach:</b> Space (especially), air vehicles, flying animals \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+
 <b>Geography</b>
 - [True Size](https://thetruesize.com/) \
     <b>Great for teach:</b> Geography, maps, size of country \
