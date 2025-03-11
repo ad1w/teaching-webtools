@@ -16,6 +16,10 @@ learning media, use them wisely.
     <b>Great for teach:</b> Space (especially), air vehicles, highland and flying animals \
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
+- [Anatomy 3D](https://anatomy3datlas.com/) \
+    <b>Great for teach:</b> Human body \
+    <b>Platform:</b> Windows, Mac, Android, iOS \
+    <b>Price:</b> - :shrug_tone2:    
 
 <b>Geography</b>
 - [True Size](https://thetruesize.com/) \
