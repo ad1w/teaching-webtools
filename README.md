@@ -49,6 +49,12 @@ learning media, use them wisely.
     <b>Platform:</b> Windows \
     <b>Price:</b> Free :smile:
 
+<b>Learning Design</b>
+- [Diffit](https://web.diffit.me) \
+    <b>Great for:</b> Created materials, questions, etc \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+
 <b>Assessment</b>
 - [Quizizz](https://quizizz.com/admin) \
     <b>Great for:</b> Assessment, Evaluation, Games \
