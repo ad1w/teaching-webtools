@@ -49,6 +49,16 @@ learning media, use them wisely.
     <b>Platform:</b> Windows \
     <b>Price:</b> Free :smile:
 
+<b>Assessment</b>
+- [Quizizz](https://quizizz.com/admin) \
+    <b>Great for:</b> Assessment, Evaluation, Games \
+    <b>Platform:</b> Online, Android, iOS \
+    <b>Price:</b> Free :smile:
+
+- [JeopardyLabs](https://jeopardylabs.com) \
+    <b>Great for:</b> Evaluation, Games \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
 
 <b>Editing Software</b>
 - <b>Video</b>
