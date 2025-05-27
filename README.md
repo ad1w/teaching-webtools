@@ -1,5 +1,6 @@
 # teaching-webtools
 
+<img align=right height=192 width=341 src=src/picture.png alt=images />
 This repository contains a collection of websites and applications 
 out there that you can use to learn, of course you can use it for teaching. 
 All websites or applications listed here are attempted to be accessed or 
