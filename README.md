@@ -80,6 +80,20 @@ learning media, use them wisely.
     <b>Platform:</b> Windows, Mac OS, Linux, Android, iOS \
     <b>Price:</b> Free :smile:
 
+<b>Ms. Word Alternatives</b>
+- [Only Office](https://www.onlyoffice.com/) \
+    <b>Great for:</b> Documents, Presentation, etc \
+    <b>Platform:</b> Windows, Mac OS, Linux, Android, iOS \
+    <b>Price:</b> Free :smile:
+- [WPS Office](https://www.wps.com/) \
+    <b>Great for:</b> Documents, Presentation, etc \
+    <b>Platform:</b> Windows, Mac OS, Linux, Android, iOS \
+    <b>Price:</b> Free :smile:
+- [Libre Office](https://www.libreoffice.org/) \
+    <b>Great for:</b> Documents, Presentation, etc \
+    <b>Platform:</b> Windows, Mac OS, Linux \
+    <b>Price:</b> Free :smile:
+
 <b>Editing Software</b>
 - <b>Video</b>
     - [Olive](https://www.olivevideoeditor.org/) \
