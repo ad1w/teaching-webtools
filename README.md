@@ -80,7 +80,7 @@ learning media, use them wisely.
     <b>Platform:</b> Windows, Mac OS, Linux, Android, iOS \
     <b>Price:</b> Free :smile:
 
-<b>Ms. Word Alternatives</b>
+<b>Ms. Office Alternatives</b>
 - [Only Office](https://www.onlyoffice.com/) \
     <b>Great for:</b> Documents, Presentation, etc \
     <b>Platform:</b> Windows, Mac OS, Linux, Android, iOS \
