@@ -69,7 +69,7 @@ learning media, use them wisely.
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
 
-<b>Creating Plan</b>
+<b>Write a Plan</b>
 - [Logseq](https://logseq.com/) \
     <b>Great for:</b> Planing, Note, Flashcard, etc \
     <b>Platform:</b> Windows, Mac OS, Linux, iOS \
