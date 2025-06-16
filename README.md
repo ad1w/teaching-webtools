@@ -22,9 +22,13 @@ learning media, use them wisely.
 - [Anatomy 3D](https://anatomy3datlas.com/) \
     <b>Great for teach:</b> Human body \
     <b>Platform:</b> Windows, Mac, Android, iOS \
-    <b>Price:</b> - :shrug_tone2:    
+    <b>Price:</b> - :shrug_tone2:
+- [Dinosaur Comparison](https://scaleofuniverse.com/en/dinosaurs) \
+    <b>Great for teach:</b> Dinosaurs size \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:    
 
-<b>Geography</b>
+<b>Geography & Universe</b>
 - [True Size](https://thetruesize.com/) \
     <b>Great for teach:</b> Geography, maps, size of country \
     <b>Platform:</b> Online \
@@ -35,6 +39,10 @@ learning media, use them wisely.
     <b>Price:</b> Free :smile:
 - [Space Elevator](https://neal.fun/space-elevator/) \
     <b>Great for teach:</b> Space (especially), air vehicles, highland and flying animals \
+    <b>Platform:</b> Online \
+    <b>Price:</b> Free :smile:
+- [Scale of Universe](https://scaleofuniverse.com/en) \
+    <b>Great for teach:</b> The size of the object in the universe \
     <b>Platform:</b> Online \
     <b>Price:</b> Free :smile:
 
