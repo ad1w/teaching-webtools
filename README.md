@@ -107,11 +107,11 @@ learning media, use them wisely.
     - [Olive](https://www.olivevideoeditor.org/) \
     <b>Great for:</b> Video editing \
     <b>Platform:</b> Windows, Mac OS, Linux \
-    <b>Price:</b> Free :smile:
+    <b>Price:</b> Free :smile: <i>[without watermark of course]</i>
     - [Kdenlive](https://kdenlive.org/en/) \
     <b>Great for:</b> Video editing \
     <b>Platform:</b> Windows, Mac OS, Linux \
-    <b>Price:</b> Free :smile:
+    <b>Price:</b> Free :smile: <i>[without watermark of course]</i>
 - <b>Audio</b> 
     - [Audacity](https://www.audacityteam.org/) \
     <b>Great for:</b> Audio editing, cleaning, recording \
